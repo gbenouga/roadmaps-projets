@@ -4,4 +4,4 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ## Projects List
 
-[Simple pafe cv](https://roadmap.sh/projects/single-page-cv)\
+[Simple page cv](https://roadmap.sh/projects/single-page-cv)\ <a href='/Frontend Projects/01-single-page-cv/'>
